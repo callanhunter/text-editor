@@ -8,7 +8,7 @@
 
 # Description
 
-### This project is a text editor that allows a user to is available for offline use.
+### This project is an offline text editor that meets PWA criteria and allows a user to create notes or code snippets offline, allowing them to retrieve them for later use.
 
 # Table of contents
 
@@ -20,23 +20,25 @@
 
 # Installation
 
-### npm install and is required for this project
+### npm install is required for this project
 
 # Usage
 
-### Walkthrough:
+### Code Snippet:
+
+### ![Screenshot of HTML file](image.png)
 
 # Languages Used
 
-### Javascript
+\*[Javascript]
 
-### Node.js
+\*[Node.js]
 
-### Express.js
+\*[Express.js]
 
-### PWA
+\*[PWA]
 
-### Webpack
+\*[Webpack]
 
 # Credits
 
