@@ -30,15 +30,15 @@
 
 # Languages Used
 
-- [Javascript]
+- Javascript
 
-- [Node.js]
+- Node.js
 
-- [Express.js]
+- Express.js
 
-- [PWA]
+- PWA
 
-- [Webpack]
+- Webpack
 
 # Credits
 
